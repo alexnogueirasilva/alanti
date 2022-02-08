@@ -1,0 +1,14 @@
+{
+    "autoload": {
+      "psr-4": {
+          "App\\": "App"
+      }
+    },
+    "require": {
+      "ext-json": "*",
+      "maximebf/debugbar": "1.*",
+      "koolreport/core":    "*",
+      "sendgrid/sendgrid": "~7",
+      "phpmailer/phpmailer": "~6"
+    }
+  }
